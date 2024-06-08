@@ -60,6 +60,12 @@ De certo modo, todos os pontos estão interligados. É evidente que todos os pon
 
 PlaceHodler
 
+
+# Deploy em Nuvem
+
+https://dev.azure.com/RM97221/PraiApp
+https://praiapp.azurewebsites.net/
+
 #   Vídeo de Apresentação
 
 PlaceHolder
