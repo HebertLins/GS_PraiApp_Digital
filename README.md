@@ -58,7 +58,7 @@ De certo modo, todos os pontos estão interligados. É evidente que todos os pon
 
 #   Vídeo Pitch
 
-PlaceHodler
+https://youtu.be/X-ceZ0Oc9Ng
 
 #   Vídeo de Apresentação
 
