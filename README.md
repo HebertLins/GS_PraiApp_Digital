@@ -55,17 +55,6 @@ De certo modo, todos os pontos estão interligados. É evidente que todos os pon
 
 7. Vale lembrar que existem validações em nosso sistema, então atente-se ao utilizá-la
 
-# Sequência de Endpoints
-
-Temos um CRUD completo de todas as Entidades presentes na nossa aplicação, assim cada uma delas possui os seguintes endpoints:
-
-1. Create
-2. Delete
-3. Details
-4. Edit
-5. Index
-
-Logo, quando alguma dessas funcionalidades for acessada, terá uma URL semelhante a esta: `https://localhost:7002/EnderecosModel/Create`, assim o valor para a Model variando de acordo com a Entidade que estiver acessando e também o verbo.
 
 #   Vídeo Pitch
 
